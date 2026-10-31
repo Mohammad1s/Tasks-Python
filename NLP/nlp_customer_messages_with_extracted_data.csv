@@ -1,0 +1,81 @@
+message_id,message,Emails,Urls,Phones,Numbers,Urgent
+MSG001,"Good morning, My phone is not working :(  Thanks again!",[],[],[],[],False
+MSG002,"Hi, Thanks for your quick response! I need help ASAP!!!",[],[],[],[],False
+MSG003,"Hi support, I LOVE this product ðð Can someone help me? Email: ((EMAIL))",[],[],[],[],False
+MSG004,"Hey there, The new update is AMAZING!! Please check. Visit ((URL))",[],[],[],[],False
+MSG005,"Dear team, The price is 250 EGP, too expensive. Thank you. Call me at ((PHONE))",[],[],[],['250'],False
+MSG006,"Dear support, The package for order 10102 is damaged. Waiting for your reply. Email: ((EMAIL))   Please   help   me.  ",[],[],[],['10102'],False
+MSG007,"Hello, Bad quality... very disappointed. What should I do? #urgent @support",[],[],[],[],True
+MSG008,"Hello team, Great quality, but delivery took 7 days. Please reply soon. Visit ((URL))",[],[],[],['7'],False
+MSG009,"Good morning, Thanks! Great service :) Thanks again! Email: ((EMAIL)) My backup email is user.name+((EMAIL))",[],[],[],[],False
+MSG010,"Hi, Can you change my delivery address? I need help ASAP!!! Call me at ((PHONE))",[],[],[],[],False
+MSG011,"Hi support, Could you send the invoice? Can someone help me? Ref: A-45-2026",[],[],[],"['45', '2026']",False
+MSG012,"Hey there, I cannot log in to my account. Please check. Email: ((EMAIL)) Visit ((URL))   Please   help   me.  ",[],[],[],[],False
+MSG013,"Dear team, I ordered 2 items but received 1. Thank you.",[],[],[],"['2', '1']",False
+MSG014,"Dear support, The app crashes every time I open it! Waiting for your reply. #urgent @support",[],[],[],[],True
+MSG015,"Hello, The delivery was FAST!!! What should I do? Email: ((EMAIL)) Call me at ((PHONE))",[],[],[],[],False
+MSG016,"Hello team, I need help with payment for order 10272. Please reply soon. Visit ((URL))",[],[],[],['10272'],False
+MSG017,"Good morning, I did NOT receive my package! Thanks again!",[],[],[],[],False
+MSG018,"Hi, Please refund order 10306. I need help ASAP!!! Email: ((EMAIL))   Please   help   me.   My backup email is user.name+((EMAIL))",[],[],[],['10306'],False
+MSG019,"Hi support, This is okay, not great. Can someone help me?",[],[],[],[],False
+MSG020,"Hey there, My order 10340 arrived late!!! Please check. Visit ((URL)) Call me at ((PHONE))",[],[],[],['10340'],False
+MSG021,"Dear team, My phone is not working :(  Thank you. Email: ((EMAIL)) #urgent @support",[],[],[],[],True
+MSG022,"Dear support, Thanks for your quick response! Waiting for your reply. Ref: A-45-2026",[],[],[],"['45', '2026']",False
+MSG023,"Hello, I LOVE this product ðð What should I do?",[],[],[],[],False
+MSG024,"Hello team, The new update is AMAZING!! Please reply soon. Email: ((EMAIL)) Visit ((URL))   Please   help   me.  ",[],[],[],[],False
+MSG025,"Good morning, The price is 250 EGP, too expensive. Thanks again! Call me at ((PHONE))",[],[],[],['250'],False
+MSG026,"Hi, The package for order 10442 is damaged. I need help ASAP!!!",[],[],[],['10442'],False
+MSG027,"Hi support, Bad quality... very disappointed. Can someone help me? Email: ((EMAIL)) My backup email is user.name+((EMAIL))",[],[],[],[],False
+MSG028,"Hey there, Great quality, but delivery took 7 days. Please check. Visit ((URL)) #urgent @support",[],[],[],['7'],True
+MSG029,"Dear team, Thanks! Great service :) Thank you.",[],[],[],[],False
+MSG030,"Dear support, Can you change my delivery address? Waiting for your reply. Email: ((EMAIL)) Call me at ((PHONE))   Please   help   me.  ",[],[],[],[],False
+MSG031,"Hello, Could you send the invoice? What should I do?",[],[],[],[],False
+MSG032,"Hello team, I cannot log in to my account. Please reply soon. Visit ((URL))",[],[],[],[],False
+MSG033,"Good morning, I ordered 2 items but received 1. Thanks again! Email: ((EMAIL)) Ref: A-45-2026",[],[],[],"['2', '1', '45', '2026']",False
+MSG034,"Hi, The app crashes every time I open it! I need help ASAP!!!",[],[],[],[],False
+MSG035,"Hi support, The delivery was FAST!!! Can someone help me? Call me at ((PHONE)) #urgent @support",[],[],[],[],True
+MSG036,"Hey there, I need help with payment for order 10612. Please check. Email: ((EMAIL)) Visit ((URL))   Please   help   me.   My backup email is user.name+((EMAIL))",[],[],[],['10612'],False
+MSG037,"Dear team, I did NOT receive my package! Thank you.",[],[],[],[],False
+MSG038,"Dear support, Please refund order 10646. Waiting for your reply.",[],[],[],['10646'],False
+MSG039,"Hello, This is okay, not great. What should I do? Email: ((EMAIL))",[],[],[],[],False
+MSG040,"Hello team, My order 10680 arrived late!!! Please reply soon. Visit ((URL)) Call me at ((PHONE))",[],[],[],['10680'],False
+MSG041,"Good morning, My phone is not working :(  Thanks again!",[],[],[],[],False
+MSG042,"Hi, Thanks for your quick response! I need help ASAP!!! Email: ((EMAIL))   Please   help   me.   #urgent @support",[],[],[],[],True
+MSG043,"Hi support, I LOVE this product ðð Can someone help me?",[],[],[],[],False
+MSG044,"Hey there, The new update is AMAZING!! Please check. Visit ((URL)) Ref: A-45-2026",[],[],[],"['45', '2026']",False
+MSG045,"Dear team, The price is 250 EGP, too expensive. Thank you. Email: ((EMAIL)) Call me at ((PHONE)) My backup email is user.name+((EMAIL))",[],[],[],['250'],False
+MSG046,"Dear support, The package for order 10782 is damaged. Waiting for your reply.",[],[],[],['10782'],False
+MSG047,"Hello, Bad quality... very disappointed. What should I do?",[],[],[],[],False
+MSG048,"Hello team, Great quality, but delivery took 7 days. Please reply soon. Email: ((EMAIL)) Visit ((URL))   Please   help   me.  ",[],[],[],['7'],False
+MSG049,"Good morning, Thanks! Great service :) Thanks again! #urgent @support",[],[],[],[],True
+MSG050,"Hi, Can you change my delivery address? I need help ASAP!!! Call me at ((PHONE))",[],[],[],[],False
+MSG051,"Hi support, Could you send the invoice? Can someone help me? Email: ((EMAIL))",[],[],[],[],False
+MSG052,"Hey there, I cannot log in to my account. Please check. Visit ((URL))",[],[],[],[],False
+MSG053,"Dear team, I ordered 2 items but received 1. Thank you.",[],[],[],"['2', '1']",False
+MSG054,"Dear support, The app crashes every time I open it! Waiting for your reply. Email: ((EMAIL))   Please   help   me.   My backup email is user.name+((EMAIL))",[],[],[],[],False
+MSG055,"Hello, The delivery was FAST!!! What should I do? Call me at ((PHONE)) Ref: A-45-2026",[],[],[],"['45', '2026']",False
+MSG056,"Hello team, I need help with payment for order 10952. Please reply soon. Visit ((URL)) #urgent @support",[],[],[],['10952'],True
+MSG057,"Good morning, I did NOT receive my package! Thanks again! Email: ((EMAIL))",[],[],[],[],False
+MSG058,"Hi, Please refund order 10986. I need help ASAP!!!",[],[],[],['10986'],False
+MSG059,"Hi support, This is okay, not great. Can someone help me?",[],[],[],[],False
+MSG060,"Hey there, My order 11020 arrived late!!! Please check. Email: ((EMAIL)) Visit ((URL)) Call me at ((PHONE))   Please   help   me.  ",[],[],[],['11020'],False
+MSG061,"Dear team, My phone is not working :(  Thank you.",[],[],[],[],False
+MSG062,"Dear support, Thanks for your quick response! Waiting for your reply.",[],[],[],[],False
+MSG063,"Hello, I LOVE this product ðð What should I do? Email: ((EMAIL)) #urgent @support My backup email is user.name+((EMAIL))",[],[],[],[],True
+MSG064,"Hello team, The new update is AMAZING!! Please reply soon. Visit ((URL))",[],[],[],[],False
+MSG065,"Good morning, The price is 250 EGP, too expensive. Thanks again! Call me at ((PHONE))",[],[],[],['250'],False
+MSG066,"Hi, The package for order 11122 is damaged. I need help ASAP!!! Email: ((EMAIL))   Please   help   me.   Ref: A-45-2026",[],[],[],"['11122', '45', '2026']",False
+MSG067,"Hi support, Bad quality... very disappointed. Can someone help me?",[],[],[],[],False
+MSG068,"Hey there, Great quality, but delivery took 7 days. Please check. Visit ((URL))",[],[],[],['7'],False
+MSG069,"Dear team, Thanks! Great service :) Thank you. Email: ((EMAIL))",[],[],[],[],False
+MSG070,"Dear support, Can you change my delivery address? Waiting for your reply. Call me at ((PHONE)) #urgent @support",[],[],[],[],True
+MSG071,"Hello, Could you send the invoice? What should I do?",[],[],[],[],False
+MSG072,"Hello team, I cannot log in to my account. Please reply soon. Email: ((EMAIL)) Visit ((URL))   Please   help   me.   My backup email is user.name+((EMAIL))",[],[],[],[],False
+MSG073,"Good morning, I ordered 2 items but received 1. Thanks again!",[],[],[],"['2', '1']",False
+MSG074,"Hi, The app crashes every time I open it! I need help ASAP!!!",[],[],[],[],False
+MSG075,"Hi support, The delivery was FAST!!! Can someone help me? Email: ((EMAIL)) Call me at ((PHONE))",[],[],[],[],False
+MSG076,"Hey there, I need help with payment for order 11292. Please check. Visit ((URL))",[],[],[],['11292'],False
+MSG077,"Dear team, I did NOT receive my package! Thank you. #urgent @support Ref: A-45-2026",[],[],[],"['45', '2026']",True
+MSG078,"Dear support, Please refund order 11326. Waiting for your reply. Email: ((EMAIL))   Please   help   me.  ",[],[],[],['11326'],False
+MSG079,"Hello, This is okay, not great. What should I do?",[],[],[],[],False
+MSG080,"Hello team, My order 11360 arrived late!!! Please reply soon. Visit ((URL)) Call me at ((PHONE))",[],[],[],['11360'],False
